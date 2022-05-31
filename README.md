@@ -8,17 +8,17 @@ Data directory is on same level as repository directory.
 ```
 home/work/
     ├──dse230_project
-        data_prep
-        ├──movies_cleaning.ipynb
-        ├──ratings_cleaning.ipynb
-        eda
-        ├──movies_rating.ipynb
-        ├──movies.ipynb
-        ├──ratings.ipynb
-        models
-        ├──cluster_visualization.ipynb
-        ├──movie_clusters.ipynb
-        ├──movie_recommendation.ipynb
+        ├──data_prep
+            ├──movies_cleaning.ipynb
+            ├──ratings_cleaning.ipynb
+        ├──eda
+            ├──movies_rating.ipynb
+            ├──movies.ipynb
+            ├──ratings.ipynb
+        ├──models
+            ├──cluster_visualization.ipynb
+            ├──movie_clusters.ipynb
+            ├──movie_recommendation.ipynb
     ├──data
         movies.csv
         ├──ratings.csv
